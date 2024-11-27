@@ -1,1 +1,1 @@
-Personal dotfiles. Copy and modify (if necessary).
+Personal dotfiles and configurations. Copy and modify (if necessary).
