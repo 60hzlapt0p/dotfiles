@@ -1,1 +1,2 @@
-damn
+# dotfiles
+ncmpcpp build.
