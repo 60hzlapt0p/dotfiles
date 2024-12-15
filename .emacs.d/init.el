@@ -88,7 +88,7 @@
 (require 'init-git)
 (require 'init-github)
 
-(require 'init-projectile)
+(require 'project)
 
 (require 'init-compile)
 (require 'init-crontab)
