@@ -89,6 +89,7 @@
 (require 'init-github)
 
 (require 'project)
+(setq xref-search-program 'ripgrep)
 
 (require 'init-compile)
 (require 'init-crontab)
