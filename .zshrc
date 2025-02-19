@@ -23,5 +23,3 @@ source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/fzf/key-bindings.zsh
 source /usr/share/fzf/completion.zsh
 RPROMPT='%{%}[%D{%T}]'
-
-source /home/pavle/.config/broot/launcher/bash/br
